@@ -1,0 +1,1 @@
+# qa_python_course_linux
